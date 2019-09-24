@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Student Info">
+
+        <menu>
+            <item
+                android:id="@+id/Admission"
+                android:title="Admission"
+                app:showAsAction="never"
+                android:icon="@drawable/ic_add"/>
+
+            <item
+                android:id="@+id/Transfer"
+                android:title="Student Transfer"
+                app:showAsAction="never"
+                android:icon="@drawable/ic_transfer"/>
+            <item
+                android:id="@+id/Modify"
+                android:title="Modify"
+                app:showAsAction="never"
+                android:icon="@drawable/ic_edit" />
+        </menu>
+
+    </item>
+
+
+
+    <item android:title="Resources">
+        <menu>
+            <item
+                android:id="@+id/add_resource"
+                android:title="Add Resource"
+                app:showAsAction="never"
+                android:icon="@drawable/ic_add"/>
+            <item
+                android:id="@+id/getResource"
+                android:title="Get Resources"
+                app:showAsAction="never"
+                android:icon="@drawable/ic_search"/>
+        </menu>
+    </item>
+
+
+    <item android:title="Logout">
+
+        <item
+            android:id="@+id/logout"
+            android:title="Logout"
+            app:showAsAction="never"
+            android:icon="@drawable/ic_before" />
+    </item>
+
+
+</menu>

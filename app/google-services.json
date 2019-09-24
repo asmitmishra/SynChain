@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "199287048919",
+    "firebase_url": "https://logme-970c0.firebaseio.com",
+    "project_id": "logme-970c0",
+    "storage_bucket": "logme-970c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199287048919:android:4f39069863dcfa20afbe92",
+        "android_client_info": {
+          "package_name": "com.example.mishr.logme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199287048919-ivfhmvhbkn8fsu65tkpvso2cdsfhmo0o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mishr.logme",
+            "certificate_hash": "be03569c575073b17e0554efdeff872811b9af75"
+          }
+        },
+        {
+          "client_id": "199287048919-d4l6hj4lm6ardpg67ec96qig63j9j2lk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYBuTnwWD7fs6ENrBmTuxXwrIDfjPkJDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199287048919-d4l6hj4lm6ardpg67ec96qig63j9j2lk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
